@@ -70,7 +70,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/wan456/wan456.github.io.git
+  repository: git@github.com:aligo66/aligo66.github.io.git
   branch: master
   message: Site updated at {{ now("YYYY-MM-DD HH:mm:ss") }}
 
